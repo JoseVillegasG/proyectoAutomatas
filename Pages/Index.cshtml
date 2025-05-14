@@ -1,0 +1,40 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+   
+    <div>
+        <form>
+            <div class="container">
+                <h3>Numeros de Telefono</h3>
+@*                 <input id="tel" type="file" class="form-control"  /> *@
+
+                <input id="urlTel" type="text" class="form-control" />
+                <button type="button" onclick="leerArchivoDesdeURLTel()">iniciar</button>
+
+
+
+            </div>
+          
+        </form>
+        <br />
+        <br />
+        <form>
+            <div class="container">
+                <h3>Correo Electronico</h3>
+             @*    <input id="email" type="file" class="form-control" /> *@
+
+                <input id="urlEmail" type="text" class="form-control" />
+                <button type="button" onclick="leerArchivoDesdeURL()">iniciar</button>
+
+            </div>
+           
+        </form>
+    </div>
+
+
+</div>
+<script src="~/js/Automata.js"></script>
