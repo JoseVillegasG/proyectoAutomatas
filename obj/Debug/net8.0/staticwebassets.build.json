@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "D2aLiQCHCRgGWiBIoWmR+uOlS1aJO5y4HIblGTTXxnk=",
+  "Hash": "uaKjEHn3OgK3cOq97Yqx9nN43wKKNpX7HYxLNRkv2Y8=",
   "Source": "Automata",
   "BasePath": "_content/Automata",
   "Mode": "Default",
@@ -148,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Automata.js"
+    },
+    {
+      "Identity": "C:\\Users\\Pepe\\source\\repos\\Automata\\Automata\\wwwroot\\js\\ReconocedorLexico.js",
+      "SourceId": "Automata",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pepe\\source\\repos\\Automata\\Automata\\wwwroot\\",
+      "BasePath": "_content/Automata",
+      "RelativePath": "js/ReconocedorLexico.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ReconocedorLexico.js"
     },
     {
       "Identity": "C:\\Users\\Pepe\\source\\repos\\Automata\\Automata\\wwwroot\\js\\site.js",

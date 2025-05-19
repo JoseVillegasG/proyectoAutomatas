@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\js\\Automata.js"
     },
     {
+      "Id": "C:\\Users\\Pepe\\source\\repos\\Automata\\Automata\\wwwroot\\js\\ReconocedorLexico.js",
+      "PackagePath": "staticwebassets\\js\\ReconocedorLexico.js"
+    },
+    {
       "Id": "C:\\Users\\Pepe\\source\\repos\\Automata\\Automata\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

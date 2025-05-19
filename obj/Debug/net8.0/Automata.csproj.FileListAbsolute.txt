@@ -28,3 +28,4 @@ C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\refint\Automata.dl
 C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\Automata.pdb
 C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\Automata.genruntimeconfig.cache
 C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\ref\Automata.dll
+C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\Automata.sourcelink.json
