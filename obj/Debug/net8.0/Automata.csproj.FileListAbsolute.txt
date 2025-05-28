@@ -15,11 +15,6 @@ C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\Automata.RazorAsse
 C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\Automata.RazorAssemblyInfo.cs
 C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\staticwebassets\msbuild.Automata.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\staticwebassets\msbuild.build.Automata.props
-C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Automata.props
-C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Automata.props
-C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\scopedcss\bundle\Automata.styles.css
 C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\scopedcss\projectbundle\Automata.bundle.scp.css
@@ -29,3 +24,7 @@ C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\Automata.pdb
 C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\Automata.genruntimeconfig.cache
 C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\ref\Automata.dll
 C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\Automata.sourcelink.json
+C:\Users\Pepe\source\repos\Automata\Automata\bin\Debug\net8.0\Automata.staticwebassets.endpoints.json
+C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Pepe\source\repos\Automata\Automata\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

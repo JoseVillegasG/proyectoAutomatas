@@ -4,6 +4,8 @@
     ViewData["Title"] = "Home page";
 }
 
+
+
 <div class="text-center">
    
    @*  <div>
@@ -14,7 +16,7 @@
 
                 <input id="urlTel" type="text" class="form-control" />
                 <button type="button" onclick="leerArchivoDesdeURLTel()">iniciar</button>
-
+                    
 
 
             </div>
@@ -23,16 +25,39 @@
         <br />
     <br />*@
         <form>
-            <div class="container">
+            <div class="row" style="width:40%">
+
                 <h3>Introducir Cadena</h3>
-            <input id="cadenaInput" type="text" class="form-control" />
-
-
-            <button type="button" onclick="Leer()">iniciar</button>
-
+            <input id="cadenaInput" type="text" class="input-grande" />
+            <br />
+            <br />
+            <div class="col-2">
+             
+         
+            </div>
+            <div class="col-2">
+            </div>
+            
+          
            
+           </div>
            
         </form> 
+        <br />
+        <br />
+        <div style="align-self:center" class="row">
+            <div class="col-2">
+            <button type="button" onclick="Leer()">Validar cadena</button>
+            <textarea id="validarText" style="height:300px"></textarea>
+            <label id="verdadero"></label>
+            </div>
+        <div class="col-2">
+
+            <button type="button" onclick="identificar()">Identificar Tokens</button>
+            <textarea id="tokensText" style="height:300px"></textarea>
+          
+        </div>
+
     </div>
 
 
